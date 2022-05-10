@@ -1,0 +1,8 @@
+body {
+  background-color: dimgray;
+  color: seashell;
+  margin: 0 auto;
+}
+.composed-div {
+  width: 100%
+}
